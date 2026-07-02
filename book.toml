@@ -1,10 +1,10 @@
 [book]
-title = "simple-docs"
+title = "simple-book"
 authors = ["Jake"]
 src = "src"
 
 [output.html]
-no-section-label = true
+no-section-label = false
 default-theme = "light"
 preferred-dark-theme = "ayu"
 additional-css = ["custom.css"]
