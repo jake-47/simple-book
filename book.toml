@@ -1,0 +1,12 @@
+[book]
+title = "simple-docs"
+authors = ["Jake"]
+src = "src"
+
+[output.html]
+no-section-label = true
+default-theme = "light"
+preferred-dark-theme = "ayu"
+additional-css = ["custom.css"]
+git-repository-url = "https://github.com/jake-47/simple-docs"
+edit-url-template = "https://github.com/jake-47/simple-docs/edit/main/src/{path}"
